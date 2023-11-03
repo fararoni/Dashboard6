@@ -57,7 +57,7 @@
                                             <th>C.P.</th>
                                             <th>Edad</th>
                                             <th>Sexo</th>
-                                            <th>Acción</th>
+                                            
                                         </tr>
                                     </thead>
                                     <tbody>
